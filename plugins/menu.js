@@ -4,10 +4,10 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-const newsletterJid = '120363418071540900@newsletter';
+const newsletterJid = '120363424932450219@newsletter';
 const newsletterName = '⏤͟͞ू⃪፝͜⁞⟡ 𝐄llen 𝐉ᴏ𝐄\'s 𝐒ervice';
 const packname = '˚🄴🄻🄼🄴🄽-🄹🄾🄴-🄱🄾🅃';
-const redes = 'https://github.com/nevi-dev';
+const redes = 'https://whatsapp.com/channel/0029Vb7obv8Fy72937jJb32V';
 
 const GITHUB_REPO_OWNER = 'nevi-dev';
 const GITHUB_REPO_NAME = 'Ellen-Joe-Bot-MD';
